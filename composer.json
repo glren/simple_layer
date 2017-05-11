@@ -1,4 +1,5 @@
 {
     "name": "ci_common/common",
-    "description": "test project"
+    "description": "test project",
+    "ci_common/common" : "1.0.1"
 }
