@@ -1,6 +1,7 @@
 # 레이어 모듈
  특별한 기능 없이 간단한 레이어를 사용할 때 사용해주세요.
-
+# requirement
+ 이 라이브러리는 반드시 jQuery를 로드 해야 합니다.
 # STEP.1 : HTML 파일 정의
  1. 스타일시트는 원하는 레이어 모양으로 작성하시면 됩니다.
  2. html 은 layerid, closeBtnClassName , inputClassName 은 반드시 설정 되어야 합니다.
