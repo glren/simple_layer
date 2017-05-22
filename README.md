@@ -3,11 +3,14 @@
 # requirement
  이 라이브러리는 반드시 jQuery를 로드 해야 합니다.
 # STEP.1 : HTML 파일 정의
- 1. 스타일시트는 원하는 레이어 모양으로 작성하시면 됩니다.
- 2. html 은 layerid, closeBtnClassName , inputClassName 은 반드시 설정 되어야 합니다.
- layerid : 레이어 전체를 감싸는 태그
- closeBtnClassName : layerid 의 자식요소 이며, 해당 클레스를 가진 요소를 클릭하면 레이어가 사라집니다.
- inputClassName : layerid 의 자식요소 이며, 해당 클레스를 가진 요소를 체크한 후 닫으면 하루동안 레이어가 표시 되지 않습니다.
+
+<ul>
+<li> 1. 스타일시트는 원하는 레이어 모양으로 작성하시면 됩니다.</li>
+<li> 2. html 은 layerid, closeBtnClassName , inputClassName 은 반드시 설정 되어야 합니다.</li>
+<li> layerid : 레이어 전체를 감싸는 태그</li>
+<li> closeBtnClassName : layerid 의 자식요소 이며, 해당 클레스를 가진 요소를 클릭하면 레이어가 사라집니다.</li>
+<li> inputClassName : layerid 의 자식요소 이며, 해당 클레스를 가진 요소를 체크한 후 닫으면 하루동안 레이어가 표시 되지 않습니다.</li>
+ </ul>
 
 ```html
 <style type="text/css">
