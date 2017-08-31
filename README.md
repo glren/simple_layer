@@ -24,6 +24,8 @@
 
 .top_cnts3{width:600px; height:400px;border:0px solid #2bA5B3;position:absolute;z-index:9999;left:530px;top:180px;display:none;}
 </style>
+<script src="PATH_TO_FILE_LOCATION/sl_layer.js" ></script>
+<!-- 위 스크립트 파일은 저장된 위치를 직접 입력해주세요 -->
 <div id="sample_layer" class="sl_layer">
 	<a href="http://realclinic.co.kr/inquiry/notice_view.php?num=18" target="_parent">
 		<img src="http://placehold.it/200x200">
